@@ -6,14 +6,14 @@
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Moodle</name>
+    <name>ATClassroom</name>
 
     <description>
-        Moodle official app
+        Amazon Trojans Classroom app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://moodle.com" email="rob.stanley@amazontrojans.co.uk">
+        amazon Trojans team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
